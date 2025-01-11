@@ -7,9 +7,10 @@ Estudos para aprimorar e praticar a avaliação de modelos de ML. Avaliar um mod
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
--> Python
--> Numpy
--> Matplotlib
--> Tensorflow
--> Scikit Learning
--> Pandas
+
+- Python
+- Numpy
+- Matplotlib
+- Tensorflow
+- Scikit Learning
+- Pandas
